@@ -1,5 +1,10 @@
-# Shaily — homepage design concept
+# Shaily Engineering Plastics — website concept
 
-A one-page homepage concept for Shaily Engineering Plastics Ltd., themed around its self-injection device platforms. This is a design concept, not the live site.
+A design concept for a group website, inspired by the structure of tata.com. Not the live Shaily site.
 
-Live preview: https://sushilkk81.github.io/shaily-homepage-concept/
+- `/` — Shaily group landing page
+- `/healthcare/` — Healthcare business (platforms and innovation concepts)
+- `/consumer/` — Consumer business
+- `/key-segments/` — Industrial, consumer electronics and semiconductors
+
+Content lives in `assets/js/data.js`; shared layout in `assets/css/site.css` and `assets/js/site.js`.
